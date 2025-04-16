@@ -7,3 +7,6 @@ Changes made:
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
